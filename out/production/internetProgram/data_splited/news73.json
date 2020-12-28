@@ -1,0 +1,11 @@
+{
+    "title": "稳稳着落！一分钟回顾嫦娥五号探测器着陆月球全过程",
+    "summary": "记者从国家航天局获悉，刚刚，嫦娥五号探测器成功着陆在月球正面预选着陆区，成为我国第三个成功实施月面软着陆的探测器。",
+    "date": "2020-12-02 09:17:55",
+    "article": [
+        "var isHttps = location.href.substr(0, 5) == \"https\" ? \"true\": \"false\";var playerParas = {divId: \"myFlash\",   /*播放器容器id，必填项*/w: 1000,   /*播放器宽度，必填项*/h: 562,   /*播放器高度，必填项*/t: \"news\",   /*台名称，比如news,sports,tv等，必填项*/videoCenterId: \"3844dbd71ef99e9d80852596e3bc7727\",   /*视频生产中心guid，必填项*/br: \"\",  /*设置默认码率*/id: \"null\",   /*可填null,必填项*/videoId: \"VIDE100215108600\",   /*视频集id*/url: \"\",   /*视频页面url，如http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/articleId: \"\",   /*文章id*/filePath: \"\",   /*文件路径*/sysSource: \"\",   /*视频来源*/channelId: \"\",   /*可为空*/scheduleId: \"C18472000001\",   /*关键字*/isLogin: \"\",   /*用户中心相关，是否登录*/userId: \"C18472000001\",   /*用户中心相关，用户登录id*/isDefaultPreImage: \"true\",   /*是否默认从vdn取图，非自动播放情况下才有效*/isAutoPlay: \"true\",   /*是否自动播放，只有false为不自动播放，其它值为自动播放*/posterImg: \"\",   /*播放器前贴图片*/isAudio: \"false\",  /*是否是音频播放器,为true表示是音频，false表示是视频*/isHttps: isHttps,  /*是否https视频，true是,false不是*/wmode: \"opaque\",   /*flash播放器的窗口模式，默认为opaque*/wideMode: \"normal\",   /*flash播放器的窗口模式，默认为opaque*/setupOn: \"false\", /*是否显示设置按钮，默认为false*/playerType : \"vod\",   /*播放器类型，vod表示普通播放器*/isLeftBottom: \"true\", /*播放按钮是否在播放器左下角,为true表示是，false表示播放按钮在播放器中间*/webFullScreenOn: \"false\",   /*是否显示全屏按钮，默认true表示显示*/language: \"\"  /*语言，默认中文，en表示英语*/};createVodPlayer(playerParas);",
+        "记者从国家航天局获悉，刚刚，嫦娥五号探测器成功着陆在月球正面预选着陆区，成为我国第三个成功实施月面软着陆的探测器。成功着陆后，着陆器在地面控制下，将正式开始持续约2天的月面工作。",
+        "（总台央视记者 张伟 崔霞 王世玉 杨弘杨 国家航天局 叶雨恬 段逊）"
+    ],
+    "origin": "央视新闻"
+}
